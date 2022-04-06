@@ -130,6 +130,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6079688211508198739, guid: a1b4117b92470ed4ca302ae1bfce0df8, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[8]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079688211508198739, guid: a1b4117b92470ed4ca302ae1bfce0df8, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[15]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079688211508198739, guid: a1b4117b92470ed4ca302ae1bfce0df8, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[21]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079688211508198739, guid: a1b4117b92470ed4ca302ae1bfce0df8, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[27]
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6079688211781809086, guid: a1b4117b92470ed4ca302ae1bfce0df8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.12
