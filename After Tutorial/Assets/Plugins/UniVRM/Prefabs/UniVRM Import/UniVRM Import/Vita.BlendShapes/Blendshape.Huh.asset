@@ -10,29 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
-  m_Name: Wink
+  m_Name: Blendshape.Huh
   m_EditorClassIdentifier: 
   m_prefab: {fileID: 0}
-  BlendShapeName: Wink
+  BlendShapeName: Blendshape.Huh
   Preset: 0
-  Values:
-  - RelativePath: Face
-    Index: 1
-    Weight: 100
-  - RelativePath: Face
-    Index: 7
-    Weight: 100
-  - RelativePath: Face
-    Index: 14
-    Weight: 100
-  - RelativePath: Face
-    Index: 21
-    Weight: 3.9
-  - RelativePath: Face
-    Index: 31
-    Weight: 78.7
-  - RelativePath: Face
-    Index: 33
-    Weight: 98.4
+  Values: []
   MaterialValues: []
   IsBinary: 0

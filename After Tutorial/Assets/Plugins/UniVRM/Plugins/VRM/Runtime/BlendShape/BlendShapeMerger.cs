@@ -21,7 +21,7 @@ namespace VRM
         /// <summary>
         /// BlendShape のWeightを記録する
         /// </summary>
-        public Dictionary<BlendShapeKey, float> m_valueMap;
+        Dictionary<BlendShapeKey, float> m_valueMap;
 
         BlendShapeBindingMerger m_blendShapeBindingMerger;
 

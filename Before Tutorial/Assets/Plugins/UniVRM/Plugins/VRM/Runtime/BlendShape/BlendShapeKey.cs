@@ -4,24 +4,24 @@ using System.Collections.Generic;
 namespace VRM
 {
     [Serializable]
-    public struct BlendShapeKey : IEquatable<BlendShapeKey>, IComparable<BlendShapeKey>
+    public readonly struct BlendShapeKey : IEquatable<BlendShapeKey>, IComparable<BlendShapeKey>
     {
         /// <summary>
         /// Enum.ToString() のGC回避用キャッシュ
         /// </summary>
-        private static Dictionary<BlendShapePreset, string> PresetNameCacheDictionary =
+        private static readonly Dictionary<BlendShapePreset, string> PresetNameCacheDictionary =
             new Dictionary<BlendShapePreset, string>();
 
         /// <summary>
         ///  BlendShapePresetと同名の名前を持つ独自に追加したBlendShapeを区別するためのprefix
         /// </summary>
-        private static string UnknownPresetPrefix = "Unknown_";
+        private static readonly string UnknownPresetPrefix = "Unknown_";
 
         public string Name { get; }
 
-        public BlendShapePreset Preset;
+        public readonly BlendShapePreset Preset;
 
-        private string m_id;
+        private readonly string m_id;
 
         /// <summary>
         /// name と preset のペアからBlendShapeKeyを生成するが、

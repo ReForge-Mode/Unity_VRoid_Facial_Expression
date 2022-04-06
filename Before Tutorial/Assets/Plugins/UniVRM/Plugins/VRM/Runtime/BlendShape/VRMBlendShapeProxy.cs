@@ -8,8 +8,6 @@ namespace VRM
     [DisallowMultipleComponent]
     public class VRMBlendShapeProxy : MonoBehaviour, IVRMComponent
     {
-        [SerializeField] private bool updateBlendshape = false;
-
         [SerializeField]
         public BlendShapeAvatar BlendShapeAvatar;
 
@@ -18,15 +16,7 @@ namespace VRM
             throw new NotImplementedException();
         }
 
-        public BlendShapeMerger m_merger;
-
-        private void OnValidate()
-        {
-            if(updateBlendshape)
-            {
-                Start();
-            }
-        }
+        BlendShapeMerger m_merger;
 
         private void OnDestroy()
         {

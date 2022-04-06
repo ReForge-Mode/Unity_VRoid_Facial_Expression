@@ -71,7 +71,6 @@ namespace VRM
         }
     }
 
-    [System.Serializable]
     [CreateAssetMenu(menuName = "VRM/BlendShapeClip")]
     public class BlendShapeClip : ScriptableObject
     {
