@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63b589176a34b344b9ccbee2b7e7114a, type: 3}
+  m_Name: Meta
+  m_EditorClassIdentifier: 
+  ExporterVersion: VRoidStudio-0.11.2
+  Title: Vita
+  Version: 0.0
+  Author: FFaUniHan
+  ContactInformation: ReForge Mode YouTube
+  Reference: '-'
+  Thumbnail: {fileID: 2800000, guid: 64be87145bea7154b914ffc6e5299e1b, type: 3}
+  AllowedUser: 0
+  ViolentUssage: 0
+  SexualUssage: 0
+  CommercialUssage: 1
+  OtherPermissionUrl: 
+  LicenseType: 0
+  OtherLicenseUrl: 
