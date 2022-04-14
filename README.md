@@ -14,7 +14,7 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Make VRoid Facial Expressions in Unity](https://github.com/FFaUniHan/Unity_VRoid_Facial_Expression/blob/main/Video.jpg)](https://youtu.be/uEiPli26j4M "How to Make VRoid Facial Expressions in Unity")
+[![How to Make VRoid Facial Expressions in Unity](https://github.com/FFaUniHan/Unity_VRoid_Facial_Expression/blob/main/Video.jpg)](https://www.youtube.com/watch?v=6apvnEei8aU "How to Make VRoid Facial Expressions in Unity")
 
 # License
 You are free to use this project even for commercial use. I do not take any responsibility for what you created out of it. Credits are optional, but be sure to tweet to me @FFaUniHan and show your creation!
