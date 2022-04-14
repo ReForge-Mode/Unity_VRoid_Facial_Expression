@@ -1,4 +1,4 @@
-# Unity VRoid Facial Expression
+# How to Make VRoid Facial Expressions in Unity
 In this tutorial, you'll learn how to change facial expressions on our VRoid character through the use of Blendshapes and animations in Unity. We’re going to learn what a Blendshape is, making new expressions through animations, and applying those facial expressions in the game through scripts. 
 
 Huge credit to these guys who made this possible!
@@ -14,7 +14,7 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!](https://github.com/FFaUniHan/Unity_VRoid_VFX_Texture_Swap/blob/main/Video.jpg)](https://youtu.be/uEiPli26j4M "How to Change Your Eyes and Clothes in Unity VRoid Studio in 12 Minutes or Less!")
+[![How to Make VRoid Facial Expressions in Unity](https://github.com/FFaUniHan/Unity_VRoid_Facial_Expression/blob/main/Video.jpgg)](https://youtu.be/uEiPli26j4M "How to Make VRoid Facial Expressions in Unity")
 
 # License
 You are free to use this project even for commercial use. I do not take any responsibility for what you created out of it. Credits are optional, but be sure to tweet to me @FFaUniHan and show your creation!
